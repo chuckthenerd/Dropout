@@ -30,3 +30,6 @@ output_failures = True
 output_changes = False
 output_all = False
 ```
+
+## Future Development:
+Derive some inspiration from https://makezine.com/projects/send-ticket-isp-when-your-internet-drops/ for additional functionality
